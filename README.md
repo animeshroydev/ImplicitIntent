@@ -1,4 +1,4 @@
-# ImplicitIntent
+# Implicit Intent App
 Developing Android Apps.
 
 Button (Open Website): To Open website in the browser.
